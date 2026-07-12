@@ -33,7 +33,7 @@ export default function Hero() {
         <div className="flex flex-wrap justify-center md:justify-start gap-4">
           {/* Download CV Button: Added download attribute to trigger file download */}
           <a 
-            href="/my-cv.pdf" 
+            href="/2021ICTS89_CV.pdf" 
             download="Piyumi_Ranasingha_CV.pdf"
             className="flex items-center gap-2 px-8 py-3 bg-slate-800 hover:bg-slate-700 text-white font-bold rounded-full transition"
           >
